@@ -1,20 +1,3 @@
-# cypress-todo-example
-Example React App for experimenting with Cypress.io
+# Cypress: Write Automated Tests to Validate Web Applications
 
-### Installation
-
-Follow the steps below
-
-```bash
-$ git clone git@github.com:rcdexta/cypress-todo-example.git
-$ cd cypress-todo-example
-$ yarn install
-```
-
-Steps to add cypress to the flow
-
-```bash
-$ yarn add --dev cypress
-$ yarn cypress open
-```
-
+[Checkout this article to learn how to use Cypress to write browser-based automated tests](https://auth0.com/blog/cypress-write-automated-tests-to-validate-web-applications).
